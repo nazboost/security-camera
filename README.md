@@ -16,10 +16,7 @@ Send images when motion is detected by web camera and sends images to Slack chan
 ```
 
 ## Requirement
-* `Python 3.6.7`   
-```
-pip3 install -r requirements.txt
-```
+I recommend Python 3.6 or higher. 
 
 ## Usage
 1. First of all, you need to make Slack bot, so create it from the following link: https://YOUR-CHANNEL-NAME.slack.com/apps  
