@@ -1,0 +1,13 @@
+autopep8==1.4.3
+certifi==2018.11.29
+chardet==3.0.4
+idna==2.8
+numpy==1.15.4
+opencv-contrib-python==3.4.4.19
+opencv-python==3.4.4.19
+pycodestyle==2.4.0
+PyQt5==5.11.3
+PyQt5-sip==4.19.13
+python-dotenv==0.10.1
+requests==2.21.0
+urllib3==1.24.1
